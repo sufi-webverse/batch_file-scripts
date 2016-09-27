@@ -13,9 +13,9 @@ Just u need to know the following batch scripts-
 
 4.color: Helps select the color of background and font. For help , go to cmd of windows and type -   help color . 
 
-5.set /p <variable name>: declare and initialize variable
+5.set /p variable name : Declare and initialize variable
 
-6.%<variable name>%>: Calls variable value
+6.%variable name%>: Calls variable value
 
 7.::#############: type :: and then whatever further will be comment not compiled
 
